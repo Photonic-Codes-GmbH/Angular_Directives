@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { CreditCardImageDirective } from './cc-logo.directive';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MaterialModule } from 'src/material-module';
+import { MaterialModule } from '../material-module';
 
 @NgModule({
   declarations: [
